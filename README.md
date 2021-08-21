@@ -10,4 +10,5 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/58913447/130324543-4e483293-5953-47a4-b208-b37098679ced.png)
 ### Preview Add Stok
 ![Screenshot_3](https://user-images.githubusercontent.com/58913447/130324554-897219d5-51e6-48d5-b2ae-f70266a9e963.png)
-### Preview Search
+### Preview Search!
+[Screenshot_4](https://user-images.githubusercontent.com/58913447/130324564-d383bf7d-14b3-4bad-a6ca-a5b883ac982a.png)
