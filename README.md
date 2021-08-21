@@ -1,1 +1,4 @@
-# Aplikasi Dekstop Penjualan Sprei Basis Java
+# Aplikasi Dekstop Penjualan Sprei
+### Basis
+1. Java
+2. Mysql
